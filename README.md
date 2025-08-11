@@ -15,13 +15,13 @@ El curso está destinado a estudiantes de postgrado,...
 
 
 ## Datasets:
-- Kaggle
-- Data Hub
-- Maven Analytics
-- Google Datasets Search
-- FiveThirtyEight
-- Github
-- Datos.gob.ar
+- Kaggle (https://www.kaggle.com/Datasets)
+- Data Hub (https://datahub.io)
+- Maven Analytics (https://www.mavenanalytics.io/data-playground)
+- Google Datasets Search (https://datasetsearch.resear.google.com)
+- FiveThirtyEight (https://FiveThirtyEight.com)
+- Github (https://github.com/awesomedata/awesome-public-datasets)
+- Datos Argentina (https://datos.gob.ar/) 
 - NASA Open Data (https://data.nasa.gov/)
 - The World Bank Open Data (https://data.worldbank.org)
-- (https://datos.gob.cl)
+- Datos.Gob, el portal de datos abiertos del Estado de Chile (https://datos.gob.cl)
