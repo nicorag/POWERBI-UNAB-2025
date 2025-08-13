@@ -19,7 +19,6 @@ El curso está destinado a estudiantes de postgrado,...
 - Data Hub (https://datahub.io)
 - Maven Analytics (https://www.mavenanalytics.io/data-playground)
 - Google Datasets Search (https://datasetsearch.research.google.com)
-- FiveThirtyEight (https://FiveThirtyEight.com)
 - Github (https://github.com/awesomedata/awesome-public-datasets)
 - Datos Argentina (https://datos.gob.ar/) 
 - NASA Open Data (https://data.nasa.gov/)
