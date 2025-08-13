@@ -18,7 +18,7 @@ El curso está destinado a estudiantes de postgrado,...
 - Kaggle (https://www.kaggle.com/Datasets)
 - Data Hub (https://datahub.io)
 - Maven Analytics (https://www.mavenanalytics.io/data-playground)
-- Google Datasets Search (https://datasetsearch.resear.google.com)
+- Google Datasets Search (https://datasetsearch.research.google.com)
 - FiveThirtyEight (https://FiveThirtyEight.com)
 - Github (https://github.com/awesomedata/awesome-public-datasets)
 - Datos Argentina (https://datos.gob.ar/) 
