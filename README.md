@@ -1,17 +1,17 @@
 # Curso de Postgrado de "Power BI"
-Por Guillermo A. Nicora<sup>1</sup>
+Por Geof. Guillermo A. Nicora<sup>1</sup>
 
 <sup>1</sup> Servicio de Hidrografía Naval (SHN), Departamento de Oceanografía, Sección de Geología y Geofísica Marina, Grupo GEOMARGEN, CABA, Argentina.
 
 ## Información del Curso
 - Fecha de realización: 
-- Día y Horario de Clases: Jueves de 19 a 21 hs (7 semanas).
+- Día y Horario de Clases: Jueves de 19 a 21 hs (Noviembre 2025).
 - Carga horaria total: 
 - Modalidad: Virtual 
 - Softwares: Se utilizarán softwares gratuitos y de código abierto.
 
 ### Dirigido a:
-El curso está destinado a estudiantes de postgrado,...
+El curso está destinado a estudiantes de postgrado de la UNAB
 
 
 ## Datasets:
