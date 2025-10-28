@@ -8,7 +8,7 @@ Por Geof. Guillermo A. Nicora<sup>1</sup>
 - Día y Horario de Clases: Jueves de 19 a 21 hs (Noviembre 2025).
 - Carga horaria total: 
 - Modalidad: Virtual 
-- Softwares: Se utilizarán softwares gratuitos y de código abierto.
+- Softwares: Se utilizarán softwares gratuitos y/o de código abierto.
 
 ### Dirigido a:
 El curso está destinado a estudiantes de postgrado de la UNAB
