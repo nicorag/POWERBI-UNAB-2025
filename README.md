@@ -11,7 +11,7 @@ Por Geof. Guillermo A. Nicora<sup>1</sup>
 - Softwares: Se utilizarán softwares gratuitos y/o de código abierto.
 
 ### Dirigido a:
-El curso está destinado a estudiantes de postgrado de la UNAB en el marco de la materia Business Intelligence
+El curso está destinado a estudiantes de posgrado de la UNAB en el marco de la materia Business Intelligence
 
 
 ## Datasets:
