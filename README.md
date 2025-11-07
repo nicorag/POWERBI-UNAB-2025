@@ -31,6 +31,7 @@ El curso está destinado a estudiantes de posgrado de la UNAB en el marco de la 
 
 Presentación del curso, descarga e instalación del software. Formatos de archivos más comúnes que se utilizaran, algunas nociones de tratamiento de datos y de visualización.
 
-Para inspeccionar posibles tipos de archivos se mostrarán como ejemplo:  [JSON1](/datasets/2018-2-4.json), [JSON2](/datasets/ventas.json) [CSV](/datasets/DataCoSupplyChainDataset.csv.zip)
+Para inspeccionar posibles tipos de archivos se mostrarán como ejemplo:  [JSON1](/datasets/2018-2-4.json), [JSON2](/datasets/ventas.json) [CSV](/datasets/DataCoSupplyChainDataset.csv.zip), [XML](/datasets/datafile.xml)
+
 
 
