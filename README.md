@@ -4,8 +4,8 @@ Por Geof. Guillermo A. Nicora<sup>1</sup>
 <sup>1</sup> Servicio de Hidrografía Naval (SHN), Departamento de Oceanografía, Sección de Geología y Geofísica Marina, Grupo GEOMARGEN, CABA, Argentina.
 
 ## Información del Curso
-- Fecha de realización: 7(excepción viernes a las 20 hs), 13, 20 y 27 de Noviembre de 2025
-- Día y Horario de Clases: Jueves de 19 a 21 hs (Noviembre 2025).
+- Fecha de realización: 7, 14, 21(feriadoquizás el jueves 20?) y 28 de Noviembre de 2025
+- Día y Horario de Clases: Viernes de 20 a 22 hs (Noviembre 2025).
 - Carga horaria total: 8 horas 
 - Modalidad: Virtual 
 - Softwares: Se utilizarán softwares gratuitos y/o de código abierto.
